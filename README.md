@@ -1,6 +1,6 @@
 # Phone book - React + Redux
 
-### Go **["Phone book"](https://nik-phone-book.netlify.app//)** for live demo.
+### Go **["Phone book"](https://nik-phone-book.netlify.app/)** for live demo.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
